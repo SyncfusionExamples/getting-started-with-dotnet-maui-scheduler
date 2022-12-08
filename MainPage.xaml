@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SchedulerSample.MainPage"
+             xmlns:scheduler="clr-namespace:Syncfusion.Maui.Scheduler;assembly=Syncfusion.Maui.Scheduler"
+             xmlns:local="clr-namespace:SchedulerSample">
+    <scheduler:SfScheduler View="Week" ShowWeekNumber="True"
+                           ShowNavigationArrows="False"
+                           FirstDayOfWeek="Monday"
+                           AllowedViews="Day,Week,WorkWeek,Month,TimelineDay,TimelineWeek,TimelineWorkWeek,TimelineMonth,Agenda"
+                           TodayHighlightBrush="Red" DisplayDate="11/15/2022" 
+                           AppointmentsSource="{Binding  CustomEvents}">
+        <scheduler:SfScheduler.AppointmentMapping>
+            <scheduler:SchedulerAppointmentMapping Subject="Name"
+                                                   StartTime="EventStart"
+                                                   EndTime="EventEnd"
+                                                   Background="Color">
+            </scheduler:SchedulerAppointmentMapping>
+        </scheduler:SfScheduler.AppointmentMapping>
+        <scheduler:SfScheduler.BindingContext>
+            <local:ControlViewModel></local:ControlViewModel>
+        </scheduler:SfScheduler.BindingContext>
+        
+    </scheduler:SfScheduler>
+
+  
+</ContentPage>
