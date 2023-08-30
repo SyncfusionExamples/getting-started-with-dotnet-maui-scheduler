@@ -38,7 +38,7 @@ The .NET MAUI Scheduler supports displaying the Scheduler component from right t
 
 [Community Forums](https://www.syncfusion.com/forums/maui?control=sfscheduler?utm_source=github&utm_medium=listing&utm_campaign=maui-scheduler-github-samples)
 
-[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/maui?control=sfscheduler?utm_source=github&utm_medium=listing&utm_campaign=maui-scheduler-github-samples)
+[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-scheduler-github-samples)
 
 [Knowledge Base](https://support.syncfusion.com/kb/cross-platforms/category/76?utm_source=github&utm_medium=listing&utm_campaign=maui-scheduler-github-samples)
 
