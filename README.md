@@ -34,7 +34,7 @@ The .NET MAUI Scheduler supports displaying the Scheduler component from right t
 
 [Documentation](https://help.syncfusion.com/maui/scheduler/getting-started?utm_source=github&utm_medium=listing&utm_campaign=maui-scheduler-github-samples) 
 
-[View Demos](https://github.com/SyncfusionExamples/maui-scheduler-examples?utm_source=github&utm_medium=listing&utm_campaign=maui-scheduler-github-samples) 
+[View Demos](https://github.com/syncfusion/maui-demos/tree/master/MAUI/Scheduler?utm_source=github&utm_medium=listing&utm_campaign=maui-scheduler-github-samples) 
 
 [Community Forums](https://www.syncfusion.com/forums/maui?control=sfscheduler?utm_source=github&utm_medium=listing&utm_campaign=maui-scheduler-github-samples)
 
@@ -42,13 +42,9 @@ The .NET MAUI Scheduler supports displaying the Scheduler component from right t
 
 [Knowledge Base](https://support.syncfusion.com/kb/cross-platforms/category/76?utm_source=github&utm_medium=listing&utm_campaign=maui-scheduler-github-samples)
 
- 
-
 ## About Syncfusion .NET MAUI Controls
 
 Syncfusion's [.NET MAUI UI Controls](https://www.syncfusion.com/maui-controls/maui-scheduler?utm_source=github&utm_medium=listing&utm_campaign=maui-scheduler-github-samples) library is the only suite that you will ever need to build an application since it contains over 40 high-performance, lightweight, modular, and responsive UI controls in a single package. In addition to Scheduler, we provide popular .NET MAUI Controls such as [DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid?utm_source=github&utm_medium=listing&utm_campaign=maui-scheduler-github-samples), [Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts?utm_source=github&utm_medium=listing&utm_campaign=maui-scheduler-github-samples), [ListView](https://www.syncfusion.com/maui-controls/maui-listview?utm_source=github&utm_medium=listing&utm_campaign=maui-scheduler-github-samples), and [Excel Library](https://www.syncfusion.com/document-processing/excel-framework/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-scheduler-github-samples).
-
- 
 
 ## About Syncfusion
 
