@@ -5,6 +5,7 @@
              xmlns:scheduler="clr-namespace:Syncfusion.Maui.Scheduler;assembly=Syncfusion.Maui.Scheduler"
              xmlns:local="clr-namespace:SchedulerSample">
     <scheduler:SfScheduler View="Week" ShowWeekNumber="True"
+                           x:DataType="local:ControlViewModel"
                            ShowNavigationArrows="False"
                            FirstDayOfWeek="Monday"
                            AllowedViews="Day,Week,WorkWeek,Month,TimelineDay,TimelineWeek,TimelineWorkWeek,TimelineMonth,Agenda"
